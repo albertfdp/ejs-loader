@@ -1,4 +1,4 @@
-var _ = require('lodash');
+var _ = require('underscore');
 var loaderUtils = require("loader-utils");
 
 module.exports = function (source) {
