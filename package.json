@@ -24,6 +24,6 @@
   "homepage": "https://github.com/okonet/ejs-loader",
   "dependencies": {
     "loader-utils": "^0.2.7",
-    "underscore": "^1.5.x"
+    "underscore": "1.5.2"
   }
 }
